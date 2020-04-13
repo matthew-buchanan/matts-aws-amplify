@@ -19,8 +19,13 @@ function App() {
           Learn React
         </a>
       </header>
+      <body className="App-body">
+        <h1>Hello AWS Amplify</h1>
+      </body>
     </div>
   );
 }
+
+
 
 export default App;
